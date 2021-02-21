@@ -1,6 +1,6 @@
 #Dunia Dengan Hack FB!!
 
-#Mr.Lukman
+#Mr Lukman
 
 $ pkg instal git curl python
 
