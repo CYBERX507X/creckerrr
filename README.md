@@ -1,6 +1,6 @@
 #Dunia Dengan Hack FB!!
 
-#Mr Lukman
+#Mr Genzz
 
 $ pkg instal git curl python
 
@@ -14,7 +14,7 @@ $ pip install permintaan mekanik bs4 futures
 
 $ pip instal colorama
 
-$https://github.com/CYBERX507X/creckerrr
+$
 
 $cd creckerrr
 
